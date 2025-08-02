@@ -17,3 +17,7 @@ This project simulates an end-to-end ETL (Extract, Transform, Load) pipeline usi
 
 ```bash
 python etl/run_etl.py
+
+
+
+
